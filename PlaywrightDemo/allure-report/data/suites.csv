@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12327","Home Page Test","chromium","2026-03-31","passed","2026-03-31","","Hooks.spec.js","",""
+"","16297","Add Product to Cart Page","chromium","2026-03-31","passed","2026-03-31","","Hooks.spec.js","",""

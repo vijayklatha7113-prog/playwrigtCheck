@@ -1,0 +1,4 @@
+BeforEach Hooks
+Test 4 is:
+AfterEach Hooks
+AfetAll hooks

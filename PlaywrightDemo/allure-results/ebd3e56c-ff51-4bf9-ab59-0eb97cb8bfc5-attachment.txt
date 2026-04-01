@@ -1,0 +1,4 @@
+BeforEach Hooks
+Test 2 is:
+AfterEach Hooks
+AfetAll hooks

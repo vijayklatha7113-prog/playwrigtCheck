@@ -1,0 +1,3 @@
+BeforEach Hooks
+Test 3 is:
+AfterEach Hooks
